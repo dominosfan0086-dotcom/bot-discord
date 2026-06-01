@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "id": "vip",
+      "name": "VIP",
+      "description": "Accès VIP",
+      "price": 5000,
+      "roleId": "123456789",
+      "type": "role",
+      "duration": null
+    },
+    {
+      "id": "tempvip",
+      "name": "VIP Temp",
+      "description": "VIP 7 jours",
+      "price": 2000,
+      "roleId": "123456789",
+      "type": "temp_role",
+      "duration": 7
+    }
+  ]
+}
